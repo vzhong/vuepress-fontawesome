@@ -1,6 +1,6 @@
 {
-  "name": "vp-font",
-  "version": "1.0.0",
+  "name": "vuepress-fontawesome",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
